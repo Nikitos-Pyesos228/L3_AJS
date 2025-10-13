@@ -1,0 +1,23 @@
+{
+  "name": "lab4-ajax",
+  "version": "1.0.0",
+  "description": "Лабораторная работа 4 - Асинхронный JavaScript",
+  "main": "lab4.js",
+  "scripts": {
+    "start": "node lab4.js",
+    "test": "echo \"Тесты пока не настроены\" && exit 0"
+  },
+  "keywords": [
+    "javascript",
+    "async",
+    "ajax",
+    "http",
+    "лабораторная"
+  ],
+  "author": "Ваше Имя",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ваш-логин/L3_AJS"
+  }
+}
