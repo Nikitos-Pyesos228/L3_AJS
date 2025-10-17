@@ -4,8 +4,7 @@
   "description": "Лабораторная работа 4 - Асинхронный JavaScript",
   "main": "lab4.js",
   "scripts": {
-    "start": "node lab4.js",
-    "test": "echo \"Тесты пока не настроены\" && exit 0"
+    "start": "node lab4.js"
   },
   "keywords": [
     "javascript",
