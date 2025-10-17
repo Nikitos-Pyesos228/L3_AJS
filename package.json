@@ -4,7 +4,8 @@
   "description": "Лабораторная работа 4 - Асинхронный JavaScript",
   "main": "lab4.js",
   "scripts": {
-    "start": "node lab4.js"
+    "start": "node lab4.js",
+     "test": "echo \"Тесты пока не настроены\" && exit 0"
   },
   "keywords": [
     "javascript",
@@ -20,3 +21,4 @@
     "url": "https://github.com/ваш-логин/L3_AJS"
   }
 }
+
